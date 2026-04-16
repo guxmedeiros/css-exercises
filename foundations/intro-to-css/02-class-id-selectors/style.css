@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.ancestor {
+  background-color: #ef6161;
+  font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#number2 {
+  color: #3300ff;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#number4 {
+  background-color: #67e46f;
+  font-size: 24px;
+  font-weight: bold;
+}
